@@ -1,5 +1,4 @@
 import random
-from unittest import mock
 
 
 def get_prizes(number_of_prizes, doors):
